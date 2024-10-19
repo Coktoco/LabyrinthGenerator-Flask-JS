@@ -25,3 +25,11 @@ Tech Stack
 	•	JavaScript: Core logic for maze generation and DOM manipulation.
 	•	CSS: Grid-based styling and layout for the maze.
 	•	Bootstrap: Used for UI responsiveness and additional styling.
+
+Screenshots:
+
+<img width="611" alt="image" src="https://github.com/user-attachments/assets/518e5751-f000-4191-918d-43b4bd13de09">
+
+<img width="645" alt="image" src="https://github.com/user-attachments/assets/0788d760-7026-4248-91b6-94a3bd8b6f3e">
+
+<img width="659" alt="image" src="https://github.com/user-attachments/assets/d70c7421-f907-4e61-a4a2-8625686869d8">
